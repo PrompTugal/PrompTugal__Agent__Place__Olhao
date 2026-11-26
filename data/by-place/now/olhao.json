@@ -1,0 +1,113 @@
+{
+ "place": "olhao",
+ "read_at": "2026-11-26T02:27:12Z",
+ "by": "board/tools/local-now.mjs (conductor@PrompTugal.dinis)",
+ "about": "Now in this place: (for Faro) adsb.lol (ODbL), with its source and the time read. IPMA weather is on weather.promptugal.news, not here. Not a warning service: follow IPMA (https://www.ipma.pt/) and ANEPC.",
+ "station": {
+  "name": "Olhão, EPPO",
+  "id": 1210881,
+  "km": 2,
+  "reading": null,
+  "page": "https://www.ipma.pt/en/otempo/obs.superficie/",
+  "source": "https://api.ipma.pt/open-data/observation/meteorology/stations/observations.json"
+ },
+ "forecast": null,
+ "warnings": {
+  "withheld": true,
+  "area": "FAR (the Faro district)",
+  "active": [],
+  "why": "IPMA data is for non-commercial use only, so it is not shown here. Warnings are on weather.promptugal.news and at ipma.pt; follow IPMA and ANEPC.",
+  "page": "https://weather.promptugal.news/",
+  "source": "https://weather.promptugal.news/"
+ },
+ "fire_risk": {
+  "municipality": "0810",
+  "days": [],
+  "page": "https://www.ipma.pt/en/riscoincendio/rcm.pt/",
+  "source": "https://api.ipma.pt/open-data/forecast/meteorology/rcm/rcm-d0.json"
+ },
+ "uv": null,
+ "sea": null,
+ "airport": {
+  "icao": "LPFR",
+  "name": "Faro airport",
+  "within_nm": 40,
+  "at": "2026-11-26T02:27:12Z",
+  "airline": [
+   {
+    "callsign": "AEA122",
+    "airline": "AEA",
+    "type": "B789",
+    "alt_ft": 42975,
+    "on_ground": false,
+    "ground_speed_kt": 475.1
+   }
+  ],
+  "other_aircraft": 0,
+  "page": "https://globe.adsb.lol/?lat=37.014&lon=-7.966&zoom=9",
+  "source": "https://api.adsb.lol/",
+  "note": "What adsb.lol's community receivers saw within 40 nautical miles at the time read. Airline flights by callsign; other aircraft only counted."
+ },
+ "reads": {
+  "warnings": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "observations": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1080500": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1080800": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1081100": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "city-daily-1081505": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "fire-risk-d0": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "fire-risk-d1": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "fire-risk-d2": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "uv": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "sea-forecast-d0": {
+   "url": null,
+   "at": "2026-11-26T02:27:09Z",
+   "status": "withheld: IPMA is non-commercial use only"
+  },
+  "adsb": {
+   "url": "https://api.adsb.lol/v2/point/37.0144/-7.9659/40",
+   "at": "2026-11-26T02:27:12Z",
+   "status": 200
+  }
+ }
+}
