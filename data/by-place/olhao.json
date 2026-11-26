@@ -572,7 +572,7 @@
  },
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-26T18:37Z",
+  "read_at": "2026-11-26T18:38:26Z",
   "by": "place.olhao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -594,6 +594,28 @@
     "read_at": "2026-11-26T18:26:56Z",
     "mentions_place": true,
     "date": "2026-11-26"
+   },
+   {
+    "title": "República 14 abre candidaturas para exposição coletiva de artes plásticas em Olhão",
+    "url": "https://www.barlavento.pt/republica-14-candidaturas-exposicao-coletiva-olhao/",
+    "published": "2026-11-26T11:22Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T18:34:30Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Olhão quer que jovens criem música e teatro e programem atividades culturais",
+    "url": "https://www.barlavento.pt/olhao-jovens-atividades-culturais/",
+    "published": "2026-11-20T16:17Z",
+    "date": "2026-11-20",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T18:34:30Z",
+    "mentions_place": true
    }
   ]
  }
