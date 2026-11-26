@@ -572,7 +572,7 @@
  },
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T11:22:44Z",
   "by": "place.olhao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -594,6 +594,105 @@
     "read_at": "2026-11-26T11:11:37Z",
     "mentions_place": true,
     "date": "2026-11-26"
+   },
+   {
+    "title": "Olhão recebe tertúlia sobre autismo e TDAH para combater preconceitos e promover a inclusão",
+    "url": "https://postal.pt/algarve/olhao-recebe-tertulia-sobre-autismo-e-tdah-para-combater-preconceitos-e-promover-a-inclusao/",
+    "published": "2026-11-23T16:30Z",
+    "date": "2026-11-23",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Rituais do Sul leva artesanato algarvio a mercados de Natal em Loulé, Faro e Olhão",
+    "url": "https://postal.pt/cultura/rituais-do-sul-leva-artesanato-algarvio-a-mercados-de-natal-em-loule-faro-e-olhao/",
+    "published": "2026-11-23T07:00Z",
+    "date": "2026-11-23",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Olhão recebe primeiro Mercado de Natal do Ria Market com mais de 40 marcas portuguesas",
+    "url": "https://postal.pt/algarve/olhao-recebe-primeiro-mercado-de-natal-do-ria-market-com-mais-de-40-marcas-portuguesas/",
+    "published": "2026-11-20T16:30Z",
+    "date": "2026-11-20",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Olhão quer que jovens criem música e teatro e programem atividades culturais",
+    "url": "https://www.barlavento.pt/olhao-jovens-atividades-culturais/",
+    "published": "2026-11-20T16:17Z",
+    "date": "2026-11-20",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:10Z",
+    "mentions_place": true
+   },
+   {
+    "title": "PSP detém dois jovens e apreende três armas proibidas durante fiscalização em Olhão",
+    "url": "https://postal.pt/algarve/psp-detem-dois-jovens-e-apreende-tres-armas-proibidas-durante-fiscalizacao-em-olhao/",
+    "published": "2026-11-20T16:10Z",
+    "date": "2026-11-20",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "David Carreira é cabeça de cartaz da passagem de ano em Olhão com três dias de festa",
+    "url": "https://postal.pt/algarve/david-carreira-e-cabeca-de-cartaz-da-passagem-de-ano-em-olhao-com-tres-dias-de-festa/",
+    "published": "2026-11-19T17:40Z",
+    "date": "2026-11-19",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Professora de Olhão aposta na inteligência artificial ética e criativa após formação em Praga",
+    "url": "https://postal.pt/europedirectalgarve/professora-de-olhao-aposta-na-inteligencia-artificial-etica-e-criativa-apos-formacao-em-praga/",
+    "published": "2026-11-17T10:14Z",
+    "date": "2026-11-17",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Feira de Natal de Olhão regressa com mais artesanato, carrosséis e concertos",
+    "url": "https://postal.pt/algarve/feira-de-natal-de-olhao-regressa-com-mais-artesanato-carrosseis-e-concertos/",
+    "published": "2026-11-17T09:51Z",
+    "date": "2026-11-17",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Arranca demolição da antiga fábrica BelaOlhão para construir 350 apartamentos e hotel de cinco estrelas",
+    "url": "https://postal.pt/algarve/arranca-demolicao-da-antiga-fabrica-belaolhao-para-construir-350-apartamentos-e-hotel-de-cinco-estrelas/",
+    "published": "2026-11-16T10:16Z",
+    "date": "2026-11-16",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Olhão&feed=rss2",
+    "read_at": "2026-11-26T11:19:16Z",
+    "mentions_place": true
    }
   ]
  }
