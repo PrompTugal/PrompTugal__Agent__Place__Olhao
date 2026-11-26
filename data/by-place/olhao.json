@@ -572,28 +572,28 @@
  },
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-26T06:13:32Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.olhao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Olhão quer que jovens criem música e teatro e programem atividades culturais",
-   "url": "https://www.barlavento.pt/olhao-jovens-atividades-culturais/",
-   "source": "Barlavento",
-   "date": "2026-11-20",
-   "read_at": "2026-11-26T06:10:50Z",
+   "title": "Escola de Olhão sensibiliza alunos para a importância dos Direitos Humanos",
+   "url": "https://postal.pt/algarve/escola-de-olhao-sensibiliza-alunos-para-a-importancia-dos-direitos-humanos/",
+   "source": "Postal do Algarve",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:11:37Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Olhão quer que jovens criem música e teatro e programem atividades culturais",
-    "url": "https://www.barlavento.pt/olhao-jovens-atividades-culturais/",
-    "published": "2026-11-20T16:17Z",
-    "date": "2026-11-20",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
-    "read_at": "2026-11-26T06:10:50Z",
-    "mentions_place": true
+    "title": "Escola de Olhão sensibiliza alunos para a importância dos Direitos Humanos",
+    "url": "https://postal.pt/algarve/escola-de-olhao-sensibiliza-alunos-para-a-importancia-dos-direitos-humanos/",
+    "published": "2026-11-26T07:45Z",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/feed/",
+    "read_at": "2026-11-26T11:11:37Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
    }
   ]
  }
