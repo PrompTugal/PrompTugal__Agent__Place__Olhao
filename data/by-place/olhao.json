@@ -5,7 +5,7 @@
  "kind": "municipality",
  "parent": "algarve",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.olhao@PrompTugal.dinis",
  "mandate": "PrompTugal.news Olhão: AI and technology in Olhão, a fishing port and Ria Formosa town where the sea, aquaculture and biotech lead, and what reaches Olhão from the Algarve, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -572,18 +572,29 @@
  },
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-26T18:38:26Z",
+  "read_at": "2026-11-27T07:37Z",
   "by": "place.olhao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Olhão apresenta primeira estratégia para a cultura e a criatividade",
-   "url": "https://www.barlavento.pt/estrategia-cultura-criatividade-olhao/",
-   "source": "Barlavento",
+   "title": "Vive no Algarve e gosta de pintar ou desenhar? A exposição em Olhão que aceita trabalhos de artistas sem experiência profissional",
+   "url": "https://postal.pt/algarve/vive-no-algarve-e-gosta-de-pintar-ou-desenhar-a-exposicao-em-olhao-que-aceita-trabalhos-de-artistas-sem-experiencia-profissional/",
+   "source": "Postal do Algarve",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:26:56Z",
+   "read_at": "2026-11-27T07:25:26Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Vive no Algarve e gosta de pintar ou desenhar? A exposição em Olhão que aceita trabalhos de artistas sem experiência profissional",
+    "url": "https://postal.pt/algarve/vive-no-algarve-e-gosta-de-pintar-ou-desenhar-a-exposicao-em-olhao-que-aceita-trabalhos-de-artistas-sem-experiencia-profissional/",
+    "published": "2026-11-26T18:50Z",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/feed/",
+    "read_at": "2026-11-27T07:25:26Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
    {
     "title": "Olhão apresenta primeira estratégia para a cultura e a criatividade",
     "url": "https://www.barlavento.pt/estrategia-cultura-criatividade-olhao/",
@@ -591,31 +602,9 @@
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T18:26:56Z",
+    "read_at": "2026-11-27T07:25:24Z",
     "mentions_place": true,
     "date": "2026-11-26"
-   },
-   {
-    "title": "República 14 abre candidaturas para exposição coletiva de artes plásticas em Olhão",
-    "url": "https://www.barlavento.pt/republica-14-candidaturas-exposicao-coletiva-olhao/",
-    "published": "2026-11-26T11:22Z",
-    "date": "2026-11-26",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
-    "read_at": "2026-11-26T18:34:30Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Olhão quer que jovens criem música e teatro e programem atividades culturais",
-    "url": "https://www.barlavento.pt/olhao-jovens-atividades-culturais/",
-    "published": "2026-11-20T16:17Z",
-    "date": "2026-11-20",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
-    "read_at": "2026-11-26T18:34:30Z",
-    "mentions_place": true
    }
   ]
  }
