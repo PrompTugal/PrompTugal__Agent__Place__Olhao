@@ -5,7 +5,7 @@
  "kind": "municipality",
  "parent": "algarve",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.olhao@PrompTugal.dinis",
  "mandate": "PrompTugal.news Olhão: AI and technology in Olhão, a fishing port and Ria Formosa town where the sea, aquaculture and biotech lead, and what reaches Olhão from the Algarve, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -572,7 +572,7 @@
  },
  "contacts": [],
  "latest_news": {
-  "read_at": "2026-11-27T18:38:35Z",
+  "read_at": "2026-11-28T07:36Z",
   "by": "place.olhao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -580,7 +580,7 @@
    "url": "https://www.barlavento.pt/estrategia-cultura-criatividade-olhao/",
    "source": "Barlavento",
    "date": "2026-11-26",
-   "read_at": "2026-11-27T18:25:42Z",
+   "read_at": "2026-11-28T07:25:19Z",
    "names_place": true
   },
   "items": [
@@ -591,31 +591,9 @@
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-27T18:25:42Z",
+    "read_at": "2026-11-28T07:25:19Z",
     "mentions_place": true,
     "date": "2026-11-26"
-   },
-   {
-    "title": "República 14 abre candidaturas para exposição coletiva de artes plásticas em Olhão",
-    "url": "https://www.barlavento.pt/republica-14-candidaturas-exposicao-coletiva-olhao/",
-    "published": "2026-11-26T11:22Z",
-    "date": "2026-11-26",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
-    "read_at": "2026-11-27T18:33:27Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Olhão quer que jovens criem música e teatro e programem atividades culturais",
-    "url": "https://www.barlavento.pt/olhao-jovens-atividades-culturais/",
-    "published": "2026-11-20T16:17Z",
-    "date": "2026-11-20",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Olhão&feed=rss2",
-    "read_at": "2026-11-27T18:33:27Z",
-    "mentions_place": true
    }
   ]
  }
